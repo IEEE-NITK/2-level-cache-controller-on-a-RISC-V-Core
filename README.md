@@ -104,7 +104,7 @@ addi x6, x5, 8
 
 - **Processor Speed**: 11.9 MHz (84 ns period)  
 - **Cache Speed**: 500 MHz (2 ns period)  
-- **Speedup (after L1 full)**: **3.75×**  
+- **Speedup (after L1 full)**: *3.75*  
 - *Observation point: PC = 0x4A; check hit1, hit2, and wait signals*
 
 ## **Conclusion and Future Scope**
